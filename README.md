@@ -38,7 +38,7 @@ Iniciando no:
     width="70px" 
     height="20"/>
   <a/>
-<a href="https://www.instagram.com/michael_henri10/">
+<a href="https://www.linkedin.com/in/michael-henrique-a1130a262/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     align="left" 
     alt="insta-logo"
