@@ -50,7 +50,7 @@ Iniciando no:
     <br>
     <br>
     
-[![Michael stats](https://github-readme-stats.vercel.app/api?username=Michaelhenri)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael stats](https://github.com/Michaelhenri)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelhenri)](https://github.com/anuraghazra/github-readme-stats)
 
