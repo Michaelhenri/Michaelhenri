@@ -51,6 +51,6 @@ Iniciando no:
     <br>
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelhenri)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelhenri)
 
 
