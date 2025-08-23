@@ -49,7 +49,9 @@ Iniciando no:
     <br>
     <br>
     <br>
-    
+
+[![Michael stats](https://github-readme-stats.vercel.app/api?username=Michaelhenri)]
+[![Michael stats](https://github.com/Michaelhenri)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelhenri)
 
