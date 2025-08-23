@@ -35,8 +35,8 @@ Iniciando no:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     align="left" 
     alt="insta-logo" 
-    width="70px" 
-    height="20"/>
+    width="80px" 
+    height="30"/>
   <a/>
 <a href="https://www.linkedin.com/in/michael-henrique-a1130a262/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
