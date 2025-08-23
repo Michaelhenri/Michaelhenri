@@ -19,9 +19,6 @@ Eu sou Michael Henrique, sou um Programador Frond End. Atualmente estou aprenden
     width="70px" 
     height="20" 
   />
-
-Iniciando no:
-
 - <img 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
     alt="react-logo" 
